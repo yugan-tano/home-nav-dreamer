@@ -91,7 +91,7 @@ python dv/demo/app.py
 Training logs (`data/metrics.jsonl`, `data/scores.jsonl`) and sample
 trajectories (`data/sample_trajectories.json`) are included in this repository.
 The trained model checkpoint (`agent.pkl`, ~123 MB) is published as a
-[GitHub Release](https://github.com/REPO_OWNER/REPO_NAME/releases) asset due to
+[GitHub Release](https://github.com/yugan-tano/home-nav-dreamer/releases) asset due to
 its size. You can also reproduce the weights by re-running training.
 
 ### Paper
@@ -105,7 +105,7 @@ The LaTeX source is in `paper/paper.tex`. Compile with XeLaTeX + CTeX.
   author       = {Shanshan Chen},
   title        = {Home Service Robot Navigation with DreamerV3 World Models},
   year         = {2026},
-  howpublished = {\url{https://github.com/REPO_OWNER/REPO_NAME}},
+  howpublished = {\url{https://github.com/yugan-tano/home-nav-dreamer}},
 }
 ```
 
@@ -193,7 +193,7 @@ python dv/demo/app.py
 
 本仓库已包含训练日志（`data/metrics.jsonl`、`data/scores.jsonl`）与示例轨迹
 （`data/sample_trajectories.json`）。训练好的模型权重（`agent.pkl`，约 123 MB）
-因体积较大，以 [GitHub Release](https://github.com/REPO_OWNER/REPO_NAME/releases)
+因体积较大，以 [GitHub Release](https://github.com/yugan-tano/home-nav-dreamer/releases)
 资产的形式发布；也可通过重新运行训练复现。
 
 ### 论文
@@ -207,7 +207,7 @@ LaTeX 源文件位于 `paper/paper.tex`，使用 XeLaTeX + CTeX 编译。
   author       = {Shanshan Chen},
   title        = {Home Service Robot Navigation with DreamerV3 World Models},
   year         = {2026},
-  howpublished = {\url{https://github.com/REPO_OWNER/REPO_NAME}},
+  howpublished = {\url{https://github.com/yugan-tano/home-nav-dreamer}},
 }
 ```
 

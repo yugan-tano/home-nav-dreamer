@@ -28,7 +28,7 @@
 
 训练好的完整模型权重（`agent.pkl`，约 123 MB）因体积较大，未包含在本仓库中，
 而是以 GitHub Release 资产的形式发布。请前往
-[Releases 页面](https://github.com/REPO_OWNER/REPO_NAME/releases) 下载，
+[Releases 页面](https://github.com/yugan-tano/home-nav-dreamer/releases) 下载，
 或通过重新运行训练复现（约 6–8 小时，RTX 4060 8GB）。
 
 ## 复现方式
