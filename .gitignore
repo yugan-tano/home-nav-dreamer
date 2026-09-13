@@ -1,0 +1,34 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- 模型权重与大型二进制（通过 GitHub Releases 发布）----
+*.pkl
+*.npy
+*.ckpt
+*.h5
+*.pt
+*.safetensors
+*.tflite
+*.onnx
+
+# ---- LaTeX 编译产物 ----
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
+*.toc
+*.dvi
+*.pdf
+
+# ---- 系统 / 编辑器 ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

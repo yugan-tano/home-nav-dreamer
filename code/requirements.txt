@@ -1,0 +1,34 @@
+# DreamerV3 居家服务机器人导航系统 - Python 依赖
+
+# Core ML Framework
+jax[cuda12]==0.4.33
+optax
+numpy<2
+scipy
+
+# Environment
+gymnasium
+Pillow
+PyYAML
+
+# DreamerV3 Framework deps
+elements>=3.19.1
+embodied  # Custom framework (included in DV/)
+ninjax>=3.5.1
+portal>=3.5.0
+scope>=0.4.4
+
+# Utilities
+einops
+tqdm
+chex
+jaxtyping
+
+# Demo UI
+gradio
+
+# Visualization
+matplotlib
+
+# Optional: CUDA
+nvidia-cuda-nvcc-cu12<=12.2
